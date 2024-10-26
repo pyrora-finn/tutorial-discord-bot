@@ -15,3 +15,19 @@ Ein einfacher Discord-Bot, der grundlegende Befehle ausführen kann, um den Eins
    cd discord-bot
 
 npm install discord.js dotenv
+
+---
+## PHP
+Bot ist als <Bot-Name> eingeloggt!
+
+
+
+### Erklärung der Datei
+
+- **Installation**: Führt Schritt-für-Schritt durch die Installation und die Ersteinrichtung des Projekts.
+- **Befehle**: Listet die verfügbaren Befehle und ihre Verwendung.
+- **Starten des Bots**: Beschreibt, wie der Bot ausgeführt wird.
+- **Fehlerbehandlung**: Gibt Hinweise zur Fehlerbehebung.
+- **Ressourcen**: Bietet Links zu nützlichen Dokumentationen.
+
+Dieses `README.md` sollte neuen Nutzern helfen, den Bot zu verstehen und ihn auf ihrem Server auszuführen.
